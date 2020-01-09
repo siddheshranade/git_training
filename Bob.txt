@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hi!! I'm Bob. I've been here for a while now.
+=======
+Hi!! I'm Bobby. New Day! I'm new here. Branch bobby_branch. New branch.
+>>>>>>> bobby_branch
 
 Advanced stuff.
