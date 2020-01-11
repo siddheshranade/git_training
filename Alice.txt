@@ -2,4 +2,8 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago. New bran
 
 Advanced stuff on change_alice branch.
 
+
 Edited from GitHub.
+
+Local changes to be stashed!
+
